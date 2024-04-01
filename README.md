@@ -1,6 +1,6 @@
 # Thesis
-##Tile: Level Classification of Cognitive Load Using Machine Learning
-##Abstract:
+#Tile: Level Classification of Cognitive Load Using Machine Learning
+#Abstract:
 Cognitive load refers to the mental demand placed on working memory during a task. It makes use
 of an information processing model to explain how the mind gathers and stores knowledge as well
 as the constraints placed on working memory. Accurately classifying cognitive load levels has a
